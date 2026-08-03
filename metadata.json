@@ -1,0 +1,6 @@
+{
+  "name": "LocalStyle",
+  "description": "Premium online clothing store with local delivery tracking, boutique product filtering, interactive wishlist, slide-out cart drawer, and styled order timeline tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
